@@ -51,7 +51,7 @@
 ##range(0)
 
 ##identity operator
-#is is not
+# is is not
 
 ##a = [1]
 ##b = [1]
@@ -67,14 +67,10 @@
 ##in not in
 ##print("34" not in "1234")
 
-print(bin(10))
-print(bin(22))
-print(10 & 22)
-print(10 | 22)
+# print(bin(10))
+# print(bin(22))
+# print(10 & 22)
+# print(10 | 22)
 
-print(5 >> 2)
-print(22 >> 2)
-
-
-
-
+# print(5 >> 2)
+# print(22 >> 2)
