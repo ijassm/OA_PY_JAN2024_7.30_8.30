@@ -1,0 +1,23 @@
+[
+    {
+      "name": "xyz",
+      "age": 16,
+      "height": 5.8,
+      "voteEligibility": false,
+      "skills": ["PYTHON", "JAVA", "JAVASCRIPT"]
+    },
+    {
+      "name": "xyz",
+      "age": 16,
+      "height": 5.8,
+      "voteEligibility": false,
+      "skills": ["PYTHON", "JAVA", "JAVASCRIPT"]
+    },
+    {
+      "name": "xyz",
+      "age": 16,
+      "height": 5.8,
+      "voteEligibility": false,
+      "skills": ["PYTHON", "JAVA", "JAVASCRIPT"]
+    }
+]
