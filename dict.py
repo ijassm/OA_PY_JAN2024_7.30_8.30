@@ -33,6 +33,9 @@ d = [
     },
 ]
 
+# d[0]["value"] =  "ds"
+# d[1]["value"] =  "ds"
+
 # l = ["XYZ", 16, 5.8, False, ["PYTHON", "JAVA", "JAVASCRIPT"]]
 
 # print(d)
