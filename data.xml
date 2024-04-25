@@ -1,0 +1,24 @@
+<people>
+  <person>
+    <name>xyz</name>
+    <age>16</age>
+    <height>5.8</height>
+    <voteEligibility>false</voteEligibility>
+    <skills>
+      <skill>PYTHON</skill>
+      <skill>JAVA</skill>
+      <skill>JAVASCRIPT</skill>
+    </skills>
+  </person>
+  <person>
+    <name>xyz</name>
+    <age>16</age>
+    <height>5.8</height>
+    <voteEligibility>false</voteEligibility>
+    <skills>
+      <skill>PYTHON</skill>
+      <skill>JAVA</skill>
+      <skill>JAVASCRIPT</skill>
+    </skills>
+  </person>
+</people>
