@@ -4,8 +4,8 @@ import datetime
 from bson import ObjectId
 
 
-userName = "Enter your username"
-password = "Enter your password"
+userName = "Ijass"
+password = "Ci16L0cNs7s5yq6m"
 
 uri = f"mongodb+srv://{userName}:{password}@python.lvsvs4f.mongodb.net/?retryWrites=true&w=majority&appName=PYTHON"
 
@@ -115,4 +115,38 @@ students = db["students"]
 # print(list(student))
 
 
-print(db.list_collection_names())
+# print(db.list_collection_names())
+
+# Update one
+
+# query = {"_id": ObjectId("666afe13d37672886d33bc0c")}
+# updateData = {"$set": {"age": 22}}
+
+# students.update_one(query, updateData)
+
+# Update many
+
+# query = {"age": 22}
+# updateData = {"$set": {"age": 20}}
+
+# students.update_many(query, updateData)
+
+# Delete one
+
+# query = {"_id": ObjectId("666aff7c4603a596df92c37b")}
+
+# students.delete_one(query)
+
+# Delete many
+
+# query = {"age": "22"}
+
+# students.delete_many({})
+
+# collection
+
+# students.drop()
+
+# 1. Add a new student
+
+# 2. Show all students
